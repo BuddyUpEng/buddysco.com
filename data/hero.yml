@@ -1,12 +1,11 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Welcome!
 content: >
-  # I am here for your personal business
+  # Best peer to peer learning platform
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  Offering best peer study group matching for you!
+buttonName: Join Buddies
 buttonURL: contact
 image: images/cover/right.jpg
 videoThumb: images/hero/popup-thumb.png

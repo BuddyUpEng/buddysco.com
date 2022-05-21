@@ -1,18 +1,24 @@
 ---
 enable: true
-topTitle: About
+topTitle:
 title: >
-  ## About me
-
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  ## About Us
 content: >
-  ### I design and build ultimate things.
+  ### Peer Group that suits you Best
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
+  Research has shown retention of concept improves by as much as 85% when academic endeavors are taken as a group with peers sharing similar values and goals. Finding the right peer group can be challenging and time consuming. We at BuddysCo understand this, Our AI algorithm match you with the best peer study group based on your interests. 
+
+  ### Quality Conversation
+
+  By keeping a small group size we believe in nurturing an environment where you can have a quality conversation with the members, support each other while preserving a spirit of healthy and constructive competition.
+
+  ### Designed for Everyone
+
+  We at BuddysCo understands that each individual comes with different interests and lifestyles of their own. Whether you are a working professional preparing for a competitive exam or a student, Our platform is designed to accommodate everyone according to their interests and schedules.  
+
+  ### Unique Approach for Learning Languages
+
+  The need and interest of learning new languages is increasing day by day. Learning a new language helps you tap into a new culture and is also necessary for professionals planning to work at a foreign place. Come and explore our simple and unique approach for learning new languages.
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact

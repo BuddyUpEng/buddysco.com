@@ -1,4 +1,4 @@
-baseURL = "https://buddyupeng.github.io/buddysco.com/"
+baseURL = "https://buddyupeng.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"

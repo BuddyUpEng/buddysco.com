@@ -6,7 +6,7 @@ content: >
 
   Offering best peer study group matching for you!
 buttonName: Join Buddies
-buttonURL: contact
+buttonURL: "#contact"
 image: images/cover/right.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+videoThumb: images/site-navigation/buddysco-logo.webp
+videoURL: https://www.youtube.com/watch?v=53HGoMuUxTQ

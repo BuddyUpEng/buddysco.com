@@ -13,36 +13,21 @@ name = "About"
 url = "#about"
 weight = 2
 [[menu.main]]
-name = "Downloads"
+name = "Download App"
 url = "#contact"
 weight = 8
 
-# Sitemap Menu
-[[menu.sitemap]]
-name = "About me"
-url = "about"
-weight = 1
-[[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
-weight = 2
-[[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
-footerLogo = "images/contact/widget-logo.png"
+androidAppLink = "https://play.google.com/store/apps"
+iosAppLink = "https://www.apple.com/in/app-store/"
+copyright = "All right reserved copyright © Buddysco.com 2022"
+footerLogo = "images/site-navigation/buddysco-logo.webp"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+logo = "images/site-navigation/buddysco-logo.webp"
 
 [params.address]
 address = "23 Khan Niketon, Grand Street, NYK."

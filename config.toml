@@ -9,37 +9,30 @@ name = "Home"
 url = "#home"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "About Us"
 url = "#about"
 weight = 2
 [[menu.main]]
 name = "Download App"
 url = "#contact"
-weight = 8
+weight = 3
+[[menu.main]]
+name = "Contact Us"
+url = "contact"
+weight = 4
 
 
 [params]
-blogPageURL = "blog"
-contactLink = "contact"
 androidAppLink = "https://play.google.com/store/apps"
 iosAppLink = "https://www.apple.com/in/app-store/"
 copyright = "All right reserved copyright © Buddysco.com 2022"
 footerLogo = "images/site-navigation/buddysco-logo.webp"
-formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/buddysco-logo.webp"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
+email = "support@buddysco.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
-
-[params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
-pinImage = "images/pin.png"
+whatsapplink = "https://wa.me/919530077786"
 
 # Social icons
 [[params.social]]

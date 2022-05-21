@@ -2,7 +2,7 @@ baseURL = "https://buddyupeng.github.io/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "BuddysCo"
 # Main Menu
 [[menu.main]]
 name = "Home"

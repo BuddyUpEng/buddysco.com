@@ -27,7 +27,7 @@ androidAppLink = "https://play.google.com/store/apps"
 iosAppLink = "https://www.apple.com/in/app-store/"
 copyright = "All right reserved copyright © Buddysco.com 2022"
 footerLogo = "images/site-navigation/buddysco-logo.webp"
-logo = "images/site-navigation/buddysco-logo.webp"
+logo = "images/site-navigation/buddysco-logo-horizontal.png"
 
 [params.address]
 email = "support@buddysco.com"

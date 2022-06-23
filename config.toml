@@ -23,7 +23,7 @@ weight = 4
 
 
 [params]
-androidAppLink = "https://play.google.com/store/apps"
+androidAppLink = "https://play.google.com/store/apps/details?id=com.app.buddywebm"
 iosAppLink = "https://www.apple.com/in/app-store/"
 copyright = "All right reserved copyright © Buddysco.com 2022"
 footerLogo = "images/site-navigation/buddysco-logo.webp"
@@ -35,15 +35,15 @@ openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 whatsapplink = "https://wa.me/919530077786"
 
 # Social icons
-[[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
-weight = 1
-[[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
-weight = 2
-[[params.social]]
-icon = "fa-twitter-square"
-url = "https://twitter.com/"
-weight = 3
+# [[params.social]]
+# icon = "fa-facebook-official"
+# url = "https://www.facebook.com/"
+# weight = 1
+# [[params.social]]
+# icon = "fa-linkedin-square"
+# url = "https://www.linkedin.com/"
+# weight = 2
+# [[params.social]]
+# icon = "fa-twitter-square"
+# url = "https://twitter.com/"
+# weight = 3

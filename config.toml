@@ -30,7 +30,7 @@ footerLogo = "images/site-navigation/buddysco-logo.webp"
 logo = "images/site-navigation/buddysco-logo-horizontal.png"
 
 [params.address]
-email = "admin@buddysco.com"
+email = "amigo@buddysco.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 whatsapplink = "https://wa.me/919530077786"
 

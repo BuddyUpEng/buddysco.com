@@ -2,7 +2,7 @@
 title: "Benefits of Group Study"
 date: 2022-09-17T12:00:00+06:00
 featureImage: images/single-blog/GroupStudy1.png
-postImage: images/single-blog/feature-image.jpg
+postImage: images/single-blog/GroupStudy2.jpg
 tags: ['productivity', 'study group']
 categories: blog
 ---

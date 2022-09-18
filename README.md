@@ -4,7 +4,7 @@
 1. Install hugo using the [Hugo installation guide](https://gohugo.io/getting-started/installing/)
 2. Clone this repository
 ```
-git clone BuddyUpEng/buddyupeng.github.io
+git clone git@github.com:BuddyUpEng/buddyupeng.github.io.git
 ```
 3. Open terminal in the repositories directory and run the following to start the website
 ```

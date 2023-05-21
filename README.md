@@ -1,4 +1,4 @@
-## Buddysco.com
+# Buddysco.com
 
 #### Hugo installation and running the website locally
 1. Install hugo using the [Hugo installation guide](https://gohugo.io/getting-started/installing/)

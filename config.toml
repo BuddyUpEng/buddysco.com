@@ -27,9 +27,9 @@ weight = 5
 
 
 [params]
-androidAppLink = "https://play.google.com/store/apps/details?id=com.app.buddywebm"
+androidAppLink = "https://play.google.com/store/apps/details?id=com.paddy.buddysco"
 alphaTestingGoogleForm = "https://docs.google.com/forms/d/e/1FAIpQLSe9aZRCOPtCV5a06K9PpN6YDN73ZAgptC9VvwLRszIMcPp4Dw/viewform?usp=sf_link"
-iosAppLink = "https://www.apple.com/in/app-store/"
+iosAppLink = "https://docs.google.com/forms/d/e/1FAIpQLSe9aZRCOPtCV5a06K9PpN6YDN73ZAgptC9VvwLRszIMcPp4Dw/viewform?embedded=true"
 copyright = "All right reserved copyright © Buddysco.com 2022"
 footerLogo = "images/site-navigation/buddysco-logo.webp"
 logo = "images/site-navigation/buddysco-logo-horizontal.png"
